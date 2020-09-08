@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+  font-family: 'Grandstander', cursive;
+}
+/*Header section*/
+h1, h2, h3 {
+  color: purple;
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+ul a {
+  text-decoration: none;
+  border: 1px solid black;
+}
+
+ul {
+
+}
